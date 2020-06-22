@@ -1,0 +1,2 @@
+rootProject.name='ScreenHive'
+include ':app'
